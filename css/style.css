@@ -399,3 +399,16 @@ section {
 .card-footer a {
   font-size: 12px;
   padding: 6px 12px
+.discord-btn {
+  display: inline-block;
+  padding: 12px 22px;
+  background: #5865F2;
+  color: #fff;
+  border-radius: 30px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.discord-btn:hover {
+  background: #4752c4;
+}
