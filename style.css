@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #121212;
+  color: #eaeaea;
+  margin: 0;
+}
+
+header {
+  background: #1f1f1f;
+  padding: 15px;
+}
+
+nav a {
+  color: #00bcd4;
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+.download {
+  background: #1e1e1e;
+  padding: 15px;
+  margin: 15px 0;
+  border-radius: 6px;
+}
