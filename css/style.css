@@ -22,3 +22,18 @@ nav a {
   margin: 15px 0;
   border-radius: 6px;
 }
+
+.tagline {
+  color: #9aa0a6;
+  font-size: 14px;
+  margin-top: -10px;
+}
+
+header h1 {
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+a:hover {
+  color: #ffffff;
+}
